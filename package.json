@@ -1,0 +1,22 @@
+{
+  "name": "audit",
+  "version": "1.0.0",
+  "description": "audit is a module of appsworld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subbareddy",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-webserver": "^0.9.1",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
+  },
+  "dependencies": {
+    "angular-ui-router": "^0.4.2"
+  }
+}
